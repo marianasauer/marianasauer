@@ -7,6 +7,4 @@
 - 📫 Contate-me no e-mail: marianasauer2004@gmail.com
 - 😄 Pronomes: ela/dela.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianasauer&show_icons=true&theme=synthwave)](https://github.com/marianasauer/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianasauer&layout=compact&theme=synthwave)](https://github.com/marianasauer/github-readme-stats)

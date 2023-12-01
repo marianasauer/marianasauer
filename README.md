@@ -1,5 +1,6 @@
-<img src="https://github.com/marianasauer/marianasauer/assets/105138712/0e0f1488-bf55-4187-8d53-4b9a4971bc9f" min-width="400px" max-width="400px" width="400px" align=right>
-### Olá! Eu sou a Mariana Sauer 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## Olá! Eu sou a Mariana Sauer 
 
 
 - 🔭 Estou em busca da minha primeira vaga trainee.

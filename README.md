@@ -3,7 +3,7 @@
 ## Olá! Eu sou a Mariana Sauer!
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduanda de Engenharia de Software.
+- 🎓 Estudante de Engenharia de Software.
 - 🌱 Estou focando na área de desenvolvimento back-end com microserviços.
 - 📫 Contate-me no e-mail: marianasauer2004@gmail.com
 
